@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests -R spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alf-001/unit-testing-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alf-001/unit-testing-training/issues"
+  },
+  "homepage": "https://github.com/Alf-001/unit-testing-training#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
